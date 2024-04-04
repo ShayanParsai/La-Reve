@@ -54,4 +54,3 @@ const headerActive = function () {
 }
 
 addEventOnElem(window, "scroll", headerActive);
-addEventOnElem(filterBtns, "click", filter);
